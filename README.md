@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Kender
 
 Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. Me encanta aprender nuevas herramientas y aplicar mis conocimientos en proyectos reales.
 
